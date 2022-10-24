@@ -21,7 +21,7 @@
   :block/updated-at 1666516988950}
  {:block/name "contents",
   :block/created-at 1666516988950,
-  :block/updated-at 1666614868553}
+  :block/updated-at 1666616372705}
  {:block/name "doing",
   :block/created-at 1666516988950,
   :block/updated-at 1666516988950}
@@ -51,7 +51,7 @@
   :block/updated-at 1666615191396}
  {:block/name "mon, 2022/10/24",
   :block/created-at 1666614925042,
-  :block/updated-at 1666615134408}
+  :block/updated-at 1666616392706}
  {:block/name "now",
   :block/created-at 1666516988950,
   :block/updated-at 1666516988950}
