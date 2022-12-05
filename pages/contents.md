@@ -1,3 +1,4 @@
 - 代码日志
-- [[力扣]]
+- [[leetcode]]
+- [[something]]
 -
