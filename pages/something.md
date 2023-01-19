@@ -1,3 +1,4 @@
 - [[openAI]]
+- [[Midjourney]]
 -
 -

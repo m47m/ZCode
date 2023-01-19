@@ -1,4 +1,5 @@
 - 代码日志
 - [[leetcode]]
 - [[something]]
+- [[JavaScript]]
 -
