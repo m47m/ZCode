@@ -9,9 +9,6 @@
 		- [短信平台](sms-activate.org)
 			- 巴西和印度首选
 		- ![image.png](../assets/image_1670237886147_0.png)
-	-
-	-
-	-
 - [[chatAI]] [[Mon, 2022/12/05]]
 	- [登录](https://chat.openai.com/auth/login)
 	- ![image.png](../assets/image_1670238152671_0.png)

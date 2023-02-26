@@ -1,0 +1,33 @@
+- ## 变化
+  collapsed:: true
+	- 速度过快
+		- 重写了虚拟DOM实现
+		- 编译模块的优化
+		- 高效的组件初始化
+		- undate速度提升
+		- SSR速度提升
+	- 体积更小
+		- 通过`webpack`的`tree-shaking`功能，可以将无用模块“剪辑”，仅打包需要的
+			- 对开发人员，能够对`vue`实现更多其他的功能，而不必担忧整体体积过大
+			- 对使用者，打包出来的包体积变小了
+	- 更易维护
+	- 更好的Typescript支持
+	- 编译器重写
+	- 更接近原生
+	- 更易使用
+- ## 新特性
+  collapsed:: true
+	- ### framents
+	- ### Teleport
+	- ### createRenderer
+	- ### composition Api
+- ## 非兼容变更
+  collapsed:: true
+	- ### Global API
+	- ### 模板指令
+	- ### 组件
+	- ### 渲染函数
+	- ### 移除 API
+-
+-
+-

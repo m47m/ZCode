@@ -1,4 +1,6 @@
 - [[openAI]]
 - [[Midjourney]]
+- [[Damus]]
+- [[Tai]]
 -
 -
